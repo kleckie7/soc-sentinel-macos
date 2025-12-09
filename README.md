@@ -16,9 +16,30 @@ Built 100 % on macOS (Apple Silicon + Intel ready) with Python + pandas + matplo
 ### Demo
 ![Threat Report](reports/threat_report_demo.png)
 
+### Quick Start – Run in < 2 Minutes
+
+Follow these steps on macOS (tested on Apple Silicon & Intel, Python 3.13):
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/kleckie7/soc-sentinel-macos.git
+cd soc-sentinel-macos
+
+# 2. Set up virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run the tool (generates & opens the report automatically)
+chmod +x main.py        # Only needed once
+./main.py
+
 ### Quick run
 ```bash
 ./main.py
+
 
 
 
