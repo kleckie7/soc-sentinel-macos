@@ -140,15 +140,5 @@ git commit -m "SOC Sentinel – professional threat detection dashboard"
 gh repo create soc-sentinel-macos --public --source=. --push
 open https://github.com/kleckie7/soc-sentinel-macos
 You’re done!
-Your repo is now live, beautiful, and 100% reproducible by anyone with a Mac.
-Copy this entire file into Microsoft Word — all terminal commands are in clean gray boxes and will paste perfectly.
-text### How to Fix It Right Now (30 seconds)
-1. Go here: https://github.com/kleckie7/soc-sentinel-macos/edit/main/SETUP.md
-2. Press **Ctrl+A** (select all) → **Delete**
-3. Paste the block above
-4. Commit message: `Fix code block formatting`
-5. Click **Commit changes**
 
-Done. Your `SETUP.md` will now look **perfect** on GitHub — clean headings, gray code boxes, everything readable and copyable.
 
-Your repo is officially flawless. Go celebrate — you’ve earned it.
