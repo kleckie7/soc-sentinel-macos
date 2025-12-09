@@ -14,11 +14,12 @@ Automated Apache/web log analyzer that:
 Built 100 % on macOS (Apple Silicon + Intel ready) with Python + pandas + matplotlib.
 
 ### Demo
-![Threat Report](reports/threats_2025-12-08_*.png)
+![Threat Report](reports/threats_2025-12-08_143022.png)
 
 ### Quick run
 ```bash
 ./main.py
+
 
 
 
