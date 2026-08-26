@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+
+# Env / secrets
+.env
+*.local
+
+# OS
+.DS_Store
+
+# Generated reports (keep demo PNGs used in README)
+reports/*.html
